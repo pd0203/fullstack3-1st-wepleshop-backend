@@ -84,6 +84,9 @@
 
 <img width="1427" alt="스크린샷 2022-01-12 오후 6 50 12" src="https://user-images.githubusercontent.com/70682567/149118268-0c062a94-a1c2-440e-8bd9-0018b0d22daa.png">
 
+- EC2 & RDS & Docker 배포 주소
+http://3.38.150.207:3000/
+
 ## Reference
 
 - 이 프로젝트는 [마플](https://marpple.shop/kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
