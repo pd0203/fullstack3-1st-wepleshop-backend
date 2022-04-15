@@ -33,7 +33,7 @@ http://3.38.150.207:3000
 ### 적용 기술
 
 - Front-End : React.js, Sass
-- Back-End : Node.js, Express, Prisma, nodemon, JWT, Bcrypt, My SQL, CORS
+- Back-End : Node.js, Express, Prisma, MySQL
 - Common : RESTful API
 - Community Tools : Slack, Zoom, Notion
 
