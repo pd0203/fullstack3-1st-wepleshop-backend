@@ -1,3 +1,6 @@
+## EC2 & RDS & Docker 배포 주소
+http://3.38.150.207:3000/
+
 ## Wepleshop 프로젝트 소개
 
 - [마플](https://marpple.shop/kr/)을 모티브로한 프로젝트
@@ -84,8 +87,7 @@
 
 <img width="1427" alt="스크린샷 2022-01-12 오후 6 50 12" src="https://user-images.githubusercontent.com/70682567/149118268-0c062a94-a1c2-440e-8bd9-0018b0d22daa.png">
 
-- EC2 & RDS & Docker 배포 주소
-http://3.38.150.207:3000/
+
 
 ## Reference
 
