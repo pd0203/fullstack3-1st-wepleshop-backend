@@ -1,5 +1,5 @@
 ## EC2 & RDS & Docker 배포 주소
-http://http://3.36.57.170:3000:3000
+http://3.36.57.170:3000
 
 ## 개인 회고록
 https://velog.io/@hs0217/1%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D
